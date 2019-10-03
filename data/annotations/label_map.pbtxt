@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'Galpao'
+}
+
+item {
+    id: 2
+    name: 'Janela'
+}
+
+item {
+    id: 3
+    name: 'Pessimo'
+}
