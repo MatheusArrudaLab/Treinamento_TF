@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>111 (257).jpg</filename>
+	<path>E:\Usuarios\ac47165\Downloads\object_detection_demo-master\data\images\train\111 (257).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ruim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>1</ymin>
+			<xmax>291</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Boa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>2</ymin>
+			<xmax>800</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>
